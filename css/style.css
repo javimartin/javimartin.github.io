@@ -108,7 +108,7 @@ nav ul li a:hover, .selected{
 ******************
 */
 
-.container_12{
+.container_24{
 	background: white;
 	margin-top: 10px;
 }
@@ -124,7 +124,7 @@ nav ul li a:hover, .selected{
 ******************
 */
 
-footer .grid_6{
+footer .footerName{
 	border-top: 1px solid #d1d1d1;
 	margin-bottom: 25px;
 }
